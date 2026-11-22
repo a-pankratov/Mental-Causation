@@ -59,7 +59,7 @@ If you reference this preprint in your research, please cite:
   title        = {Topological Architecture of Mental Causation: Sheaf Theory, \'Etale Spaces, and Gauge Connections in the Theory of Substrateless Onto-Information},
   year         = {2026},
   howpublished = {Preprint},
-  url          = {https://github.com/xapankratov-netizen/Topological-Architecture-of-Mental-Causation-in-the-Theory-of-Substrateless-Onto-Information}
+  url          = {https://github.com/xapankratov-netizen/Mental-Causation}
 }
 ```
 
